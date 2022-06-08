@@ -1,4 +1,4 @@
-# Robin BLQT,
+# Robin Blanquart,
 
 Hello ! I'm Robin from France, young developer who followed the self-taught path to perfect his autonomy for the past 2 year ✌️
 I continue to train and even discover new fields such as Ui/Ux web design in order to be versatile and propose more meaningful projects.
