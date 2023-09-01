@@ -4,12 +4,8 @@ Hello ! I'm Robin from France, young developer who followed the self-taught path
 I continue to train and even discover new fields such as Ui/Ux web design in order to be versatile and propose more meaningful projects.
 Hoping you like my projects ;)
 
-Actually:
-
-- 🤓 I’m currently learning React Native & Typescript
 - 🎨 I like design and everything that surrounds graphic design
 - 🏆 I am a big fan of CSGO competition (Esport)
-- 🧀 I too much love food ...
 
 <hr />
 
